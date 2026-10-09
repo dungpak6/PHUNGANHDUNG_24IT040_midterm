@@ -1,0 +1,16 @@
+# Compiled files
+myls
+*.o
+*.out
+*.exe
+
+# Debug and temporary files
+core
+core.*
+*.tmp
+*.swp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
